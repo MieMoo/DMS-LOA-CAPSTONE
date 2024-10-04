@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Management System Login</title>
+    <link rel="stylesheet" href="~/css/Login.css">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="left-section">
+            <h1>Login</h1>
+            <p>Enter your credentials to access the system</p>
+        </div>
+        <div class="right-section">
+            <div class="logo">
+                <img src="~/logos/LOALOA.png" alt="Lyceum of Alabang Logo">
+            </div>
+            <h1>Lyceum of Alabang</h1>
+            <h2>Document Management System</h2>
+            <form class="login-form" onsubmit="return navigateToCCSView(event)">
+                <div class="input-container">
+                    <label for="username">Username</label>
+                    <input type="text" id="username" name="username" placeholder="Enter your username">
+                </div>
+                <div class="input-container">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" placeholder="Enter your password">
+                </div>
+                <button type="submit">Login</button>
+            </form>
+        </div>
+    </div>
+    <footer>
+        <p>© 2024 Lyceum of Alabang. All Rights Reserved.</p>
+    </footer>
+    <script>
+        function navigateToCCSView(event) {
+            event.preventDefault();
+            window.location.href = 'file:///C:/Users/angel/Downloads/DMS-E3/WINDOW%20%231/Window1.html'; // MEANTIME DIRECTED PAGE.. CHANGE IF MAY BACK-END NA!!!
+        }
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,122 @@
+﻿body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 60%;
+    max-width: 1000px;
+    display: flex;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.left-section, .right-section {
+    flex: 1;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.left-section {
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.left-section h1 {
+    font-size: 48px;
+    color: #FFB300;
+    margin-bottom: 20px;
+}
+
+.left-section p {
+    font-size: 18px;
+    color: #2E6380;
+}
+
+.right-section {
+    text-align: center;
+}
+
+.logo img {
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.right-section h1 {
+    font-size: 35px;
+    color: #33805C;
+    margin: 10px 0;
+}
+
+.right-section h2 {
+    font-size: 20px;
+    color: #FFB300;
+    margin: 10px 0 20px 0;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 14px;
+}
+
+.input-container {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 20px;
+}
+
+.input-container label {
+    display: block;
+    font-weight: bold;
+    text-align: left;
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+.input-container input {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.login-form button {
+    font-size: 16px;
+    color: #fff;
+    background-color: #FFB300;
+    border: none;
+    padding: 12px 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+    max-width: 150px;
+    font-family: 'Rubik One', sans-serif;
+}
+
+.login-form button:hover {
+    background-color: #e0a800;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+    color: #aaa;
+    margin-top: 20px;
+    width: 100%;
+    position: absolute;
+    bottom: 10px;
+}
