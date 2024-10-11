@@ -13,15 +13,7 @@ namespace LOA_DMS_Capstone.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
-        }
+     
 
         public IActionResult Login()
         {
@@ -33,6 +25,20 @@ namespace LOA_DMS_Capstone.Controllers
             return View();
         }
 
+        public IActionResult W1Upload()
+        {
+            return View();
+        }
+
+        public IActionResult W1Transac()
+        {
+            return View();
+        }
+
+        public IActionResult StatTransac() 
+        {
+            return View();  
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

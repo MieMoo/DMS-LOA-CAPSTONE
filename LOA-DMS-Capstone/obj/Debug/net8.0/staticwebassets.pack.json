@@ -9,12 +9,28 @@
       "PackagePath": "staticwebassets\\css\\Login.css"
     },
     {
+      "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\StatTransac.css",
+      "PackagePath": "staticwebassets\\css\\StatTransac.css"
+    },
+    {
+      "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\Transac.css",
+      "PackagePath": "staticwebassets\\css\\Transac.css"
+    },
+    {
+      "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\W1Upload.css",
+      "PackagePath": "staticwebassets\\css\\W1Upload.css"
+    },
+    {
       "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\Window1.css",
       "PackagePath": "staticwebassets\\css\\Window1.css"
     },
     {
       "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\js\\Transac.js",
+      "PackagePath": "staticwebassets\\js\\Transac.js"
     },
     {
       "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\js\\Window1.js",

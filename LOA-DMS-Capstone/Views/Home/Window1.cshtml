@@ -14,7 +14,7 @@
         <div class="logo">
             <img src="~/logos/LOALOA.png" alt="College of Computer Studies">
             <div class="dropdown">
-                <span id="college-title" class="dropbtn" style="color: #33805C; font-weight: bold; font-size: 20px; cursor: pointer;">[ ]</span>
+                <span id="college-title" class="dropbtn" style="color: #33805C; font-weight: bold; font-size: 20px; cursor: pointer;">Bachelor of Science in Information Technology</span>
                 <div class="dropdown-content">
                     <a onclick="changeCourse('Bachelor of Science in Information Technology')">[ - BSIT - ]</a>
                     <a onclick="changeCourse('Bachelor of Science in Computer Science')">[ - BSCS - ]</a>
@@ -24,12 +24,19 @@
             </div>
         </div>
         <nav>
-            <a href="Window1.html">Home</a>
-            <a style="color: #7D7878;" href="W1-Upload.html">Upload Files</a>
-            <a style="color: #7D7878;" href="W1-Transac.html">Transaction</a>
+            <a href="/Home/Window1">Home</a>
+            <a style="color: #7D7878;" href="/Home/W1Upload">Upload File</a>
+            <div class="dropdown">
+                <a style="color: #7D7878;" class="dropbtn">Transaction</a>
+                <div class="dropdown-content">
+                    <a href="/Home/W1Transac">Requisition</a>
+                    <a href="#">Release</a> <!-- Replace "#" with the actual link for Release -->
+                </div>
+            </div>
             <a style="color: #33805C" href="#" onclick="handleLogout(event)">Logout</a>
         </nav>
     </header>
+
 
     <!-- Modal for logout confirmation -->
     <div id="logoutModal" class="modal">
@@ -47,16 +54,16 @@
 
     <div class="controls">
         <div class="left-controls">
-            <label for="categories">Categories</label>
+            <label for="categories">Types of Document:</label>
             <select id="categories">
-                <option value="all">- All Categories -</option>
+                <option value="all">- All Types -</option>
                 <option value="form137">Form 137</option>
                 <option value="form138">Form 138</option>
                 <option value="birthcertificate">Birth Certificate</option>
                 <option value="goodmoral">Good Moral</option>
             </select>
 
-            <label for="status">Status</label>
+            <label for="status">Status:</label>
             <select id="status">
                 <option value="all">- All Statuses -</option>
                 <option value="accepted">Accepted</option>

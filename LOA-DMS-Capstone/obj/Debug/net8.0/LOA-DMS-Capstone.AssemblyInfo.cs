@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LOA-DMS-Capstone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ed5b5686c4a9516ddc33dbfedf43bc2a13d91d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44d3131df801f388f46709cef24a8c3d98a01bd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("LOA-DMS-Capstone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LOA-DMS-Capstone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
