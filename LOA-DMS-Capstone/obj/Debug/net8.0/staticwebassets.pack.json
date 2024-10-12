@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\LOA-DMS-Capstone.bundle.scp.css"
     },
     {
+      "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\HRview.css",
+      "PackagePath": "staticwebassets\\css\\HRview.css"
+    },
+    {
       "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\Login.css",
       "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\StatReqs.css",
+      "PackagePath": "staticwebassets\\css\\StatReqs.css"
     },
     {
       "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\StatTransac.css",
@@ -27,6 +35,10 @@
     {
       "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\js\\HRview.js",
+      "PackagePath": "staticwebassets\\js\\HRview.js"
     },
     {
       "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\js\\Transac.js",

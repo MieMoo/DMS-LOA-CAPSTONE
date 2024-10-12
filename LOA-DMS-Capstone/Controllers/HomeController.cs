@@ -40,6 +40,17 @@ namespace LOA_DMS_Capstone.Controllers
             return View();  
         }
 
+        public IActionResult StatReqs() 
+        {
+            return View();
+        }
+
+        public IActionResult HRview()
+        {
+            return View();
+        }
+
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

@@ -1,0 +1,171 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template Header</title>
+    <link rel="stylesheet" href="~/css/HRview.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="~/js/HRview.js"></script>
+</head>
+<body>
+    <header>
+        <div class="logo-section">
+            <img src="~/logos/LOALOA.png" alt="College Logo" class="logo">
+            <span class="college-name">HEAD REGISTRAR</span>
+        </div>
+        <nav class="navbar">
+            <a style="color: #33805C" href="#" onclick="handleLogout(event)">Logout</a>
+        </nav>
+    </header>
+
+    <!-- Modal for logout confirmation -->
+    <div id="logoutModal" class="modal">
+        <div class="modal-content">
+            <img src="~/logos/warning.png" alt="Warning Icon">
+            <h3>Confirmation</h3>
+            <p>Are you sure you want to log off?</p>
+            <div class="button-container">
+                <button class="modal-button yes-button" onclick="confirmLogout()">Yes</button>
+                <button class="modal-button no-button" onclick="cancelLogout()">No</button>
+            </div>
+        </div>
+    </div>
+    <div class="main-content">
+        <div class="statistics">
+            <div class="stat-box">
+                <div class="number">3</div>
+                <div class="label">All Documents</div>
+            </div>
+            <div class="stat-box">
+                <div class="number">3</div>
+                <div class="label">Pending Documents</div>
+            </div>
+            <div class="stat-box">
+                <div class="number">1</div>
+                <div class="label">Received Documents</div>
+            </div>
+            <div class="stat-box">
+                <div class="number">1</div>
+                <div class="label">Archived Documents</div>
+            </div>
+        </div>
+        <div class="controls">
+            <button class="view-button">
+                <img src="docudocu.png" alt="View Icon" class="view-icon"> View Document
+            </button>
+            <select class="dropdown">
+                <option selected disabled>⟶ Select Course ⟵</option>
+                <option value="">BSIT</option>
+                <option value="">BSCS</option>
+                <option value="">BSIE</option>
+            </select>
+            <select class="dropdown">
+                <option selected disabled>⟶ Select Priotization ⟵</option>
+                <option value="">URGENT</option>
+                <option value="">USUAL</option>
+            </select>
+            <select class="dropdown">
+                <option selected disabled>⟶ Select Status ⟵</option>
+                <option value="">PENDING</option>
+                <option value="">ACCEPTED</option>
+                <option value="">RETURNED</option>
+            </select>
+            <input type="text" class="search" placeholder="Search..">
+            <button class="open-modal-btn" onclick="openNotificationModal()">Send Notification</button>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>ACTIONS</th>
+                    <th>DOCUMENT ID</th>
+                    <th>SENDER</th>
+                    <th>COURSE</th>
+                    <th>Description</th>
+                    <th>STATUS</th>
+                    <th>PRIORITIZATION</th>
+                    <th>REQUIRED ACTION</th>
+                    <th>DATE TO REVIEW</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><input type="checkbox"></td>
+                    <td>100001</td>
+                    <td>Elloise, Marjorie</td>
+                    <td>BSIT</td>
+                    <td>Birth Certificate from 1603</td>
+                    <td class="pending">PENDING</td>
+                    <td class="urgent">URGENT</td>
+                    <td>Verify</td>
+                    <td>MM/DD/YYYY</td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox"></td>
+                    <td>100002</td>
+                    <td>Cria, Ryleigh</td>
+                    <td>BSCS</td>
+                    <td>Good Moral submission</td>
+                    <td class="pending">PENDING</td>
+                    <td>USUAL</td>
+                    <td>Verify</td>
+                    <td>MM/DD/YYYY</td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox"></td>
+                    <td>100003</td>
+                    <td>Minaj, Onika Marie</td>
+                    <td>BSIE</td>
+                    <td>Review Form 137</td>
+                    <td class="pending">PENDING</td>
+                    <td>USUAL</td>
+                    <td>Verify</td>
+                    <td>MM/DD/YYYY</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
+    <!-- Notification Modal -->
+    <div id="notificationModal" class="modal">
+        <div class="modal-content">
+            <h2 class="notification-title">Send Notification</h2>
+
+            <div class="form-group">
+                <input type="text" class="input-field" placeholder="Staff ID" />
+            </div>
+
+            <div class="form-group">
+                <input type="text" class="input-field" placeholder="Subject" />
+            </div>
+
+            <div class="form-group">
+                <textarea class="input-field textarea" placeholder="Message.."></textarea>
+            </div>
+
+            <div class="form-group">
+                <select class="input-field">
+                    <option>Notify In..</option>
+                    <option>Now</option>
+                    <option>1 minute</option>
+                    <option>5 minutes</option>
+                    <option>10 minutes</option>
+                    <option>15 minutes</option>
+                    <option>30 minutes</option>
+                    <option>1 hour</option>
+                </select>
+            </div>
+
+            <div class="modal-buttons">
+                <button class="cancel-btn" onclick="closeNotificationModal()">Cancel</button>
+                <button class="notify-btn" onclick="notify()">Notify</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="modalOverlay" class="modal-overlay"></div>
+
+
+</body>
+</html>
