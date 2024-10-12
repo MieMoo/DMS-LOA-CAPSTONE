@@ -45,7 +45,12 @@ namespace LOA_DMS_Capstone.Controllers
             return View();
         }
 
-        public IActionResult HRview()
+        public IActionResult HRview() 
+        {
+			return View();
+		}
+
+        public IActionResult Dashboard ()
         {
             return View();
         }

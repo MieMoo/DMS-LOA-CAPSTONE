@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sV4QhqzJ7KF6jIYgkQcFHXHdq+HOVrQoqHLy0sWhqYQ=",
+  "Hash": "EG0HrekPjk4zmY72c03aVD3KDbHxK2GZQlBlXvl0GK0=",
   "Source": "LOA-DMS-Capstone",
   "BasePath": "_content/LOA-DMS-Capstone",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LOA-DMS-Capstone.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\Dashboard.css",
+      "SourceId": "LOA-DMS-Capstone",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\",
+      "BasePath": "_content/LOA-DMS-Capstone",
+      "RelativePath": "css/Dashboard.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Dashboard.css"
     },
     {
       "Identity": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\HRview.css",

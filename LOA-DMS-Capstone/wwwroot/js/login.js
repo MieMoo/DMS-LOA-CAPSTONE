@@ -17,11 +17,11 @@
         },
         '111': {
             password: '567',
-            redirect: '/Home/HRview'
+            redirect: '/Home/Dashboard'
         },
         '001': {
             password: '890',
-            redirect: 'C:/Users/angel/Downloads/DMS-E3/HEAD REGISTRAR/HR-View.html'
+            redirect: '/Home/HRview'
         }
     };
 

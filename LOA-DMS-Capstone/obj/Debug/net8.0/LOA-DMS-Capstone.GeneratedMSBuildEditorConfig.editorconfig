@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\github\DMS-LOA-CAPSTONE\LOA-DMS-Capstone
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/github/DMS-LOA-CAPSTONE/LOA-DMS-Capstone/Views/Home/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/github/DMS-LOA-CAPSTONE/LOA-DMS-Capstone/Views/Home/DocuM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb2N1TS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/github/DMS-LOA-CAPSTONE/LOA-DMS-Capstone/Views/Home/HRview.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIUnZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

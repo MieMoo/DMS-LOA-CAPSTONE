@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\views\\home\\docum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:views\\home\\docum.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,6 +27,26 @@
       "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:views\\home\\hrview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\wwwroot\\js\\hrview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:wwwroot\\js\\hrview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\wwwroot\\js\\transac.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:wwwroot\\js\\transac.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\views\\home\\w1transac.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:views\\home\\w1transac.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,24 +55,12 @@
       "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:views\\home\\statreqs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\wwwroot\\js\\hrview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:wwwroot\\js\\hrview.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\views\\home\\window1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:views\\home\\window1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\wwwroot\\css\\hrview.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:wwwroot\\css\\hrview.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\wwwroot\\css\\statreqs.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -111,10 +127,6 @@
       "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:wwwroot\\js\\window1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\wwwroot\\js\\transac.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:wwwroot\\js\\transac.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|d:\\github\\dms-loa-capstone\\loa-dms-capstone\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C5B05F-D747-4B26-AD02-3F7AB5604EA7}|LOA-DMS-Capstone.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -129,7 +141,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -153,58 +165,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
-              "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "Views\\Home\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "DocumentIndex": 0,
+              "Title": "DocuM.cshtml",
+              "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\DocuM.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DocuM.cshtml",
+              "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\DocuM.cshtml",
+              "RelativeToolTip": "Views\\Home\\DocuM.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T17:38:52.182Z",
+              "WhenOpened": "2024-10-12T19:18:48.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Dashboard.css",
+              "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\Dashboard.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Dashboard.css",
+              "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\Dashboard.css",
+              "RelativeToolTip": "wwwroot\\css\\Dashboard.css",
+              "ViewState": "AQIAANEAAAAAAAAAAAAgwCUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-12T19:17:16.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T19:13:41.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "login.js",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\js\\login.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\login.js",
               "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\js\\login.js",
               "RelativeToolTip": "wwwroot\\js\\login.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwA8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-10-11T20:08:47.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T18:04:17.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAKAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwDYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T15:23:52.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -217,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Window1.cshtml",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\Window1.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Window1.cshtml",
@@ -225,12 +251,11 @@
               "RelativeToolTip": "Views\\Home\\Window1.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-04T17:45:09.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T17:45:09.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "StatReqs.cshtml",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\StatReqs.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\StatReqs.cshtml",
@@ -238,12 +263,11 @@
               "RelativeToolTip": "Views\\Home\\StatReqs.cshtml",
               "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-12T01:42:48.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T01:42:48.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HRview.cshtml",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\HRview.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\HRview.cshtml",
@@ -256,20 +280,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "HRview.js",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\js\\HRview.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\HRview.js",
               "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\js\\HRview.js",
               "RelativeToolTip": "wwwroot\\js\\HRview.js",
-              "ViewState": "AQIAABEAAAAAAAAAAAAwwAwAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-10-12T01:54:31.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "W1Transac.cshtml",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\W1Transac.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\W1Transac.cshtml",
@@ -277,36 +301,24 @@
               "RelativeToolTip": "Views\\Home\\W1Transac.cshtml",
               "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T21:05:02.645Z",
+              "WhenOpened": "2024-10-11T21:05:02.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transac.js",
+              "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\js\\Transac.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Transac.js",
+              "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\js\\Transac.js",
+              "RelativeToolTip": "wwwroot\\js\\Transac.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-11T21:16:05.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "StatTransac.cshtml",
-              "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\StatTransac.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\StatTransac.cshtml",
-              "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\StatTransac.cshtml",
-              "RelativeToolTip": "Views\\Home\\StatTransac.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T21:24:47.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Login.css",
-              "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\Login.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Login.css",
-              "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\Login.css",
-              "RelativeToolTip": "wwwroot\\css\\Login.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-04T17:40:45.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -319,7 +331,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T17:38:52.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T18:04:17.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StatTransac.cshtml",
+              "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\StatTransac.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\StatTransac.cshtml",
+              "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\StatTransac.cshtml",
+              "RelativeToolTip": "Views\\Home\\StatTransac.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T21:24:47.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.css",
+              "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\Login.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Login.css",
+              "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\Login.css",
+              "RelativeToolTip": "wwwroot\\css\\Login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-04T17:40:45.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "HRview.css",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\HRview.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\HRview.css",
@@ -327,12 +388,11 @@
               "RelativeToolTip": "wwwroot\\css\\HRview.css",
               "ViewState": "AQIAABUBAAAAAAAAAAAwwEkBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-12T01:51:44.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T01:51:44.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "StatReqs.css",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\StatReqs.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\StatReqs.css",
@@ -340,12 +400,11 @@
               "RelativeToolTip": "wwwroot\\css\\StatReqs.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-12T01:44:49.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T01:44:49.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -357,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "W1Upload.cshtml",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Home\\W1Upload.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\W1Upload.cshtml",
@@ -365,12 +424,11 @@
               "RelativeToolTip": "Views\\Home\\W1Upload.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAUwBwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-11T20:51:11.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T20:51:11.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\favicon.ico",
               "RelativeDocumentMoniker": "wwwroot\\favicon.ico",
@@ -382,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Transac.css",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\Transac.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\Transac.css",
@@ -394,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -406,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -418,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "W1Upload.css",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\W1Upload.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\W1Upload.css",
@@ -430,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "StatTransac.css",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\StatTransac.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\StatTransac.css",
@@ -442,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Window1.css",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\Window1.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\Window1.css",
@@ -454,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
@@ -466,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "searchhie.png - PNG [512x512, 32 bit, PNG]",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\logos\\searchhie.png",
               "RelativeDocumentMoniker": "wwwroot\\logos\\searchhie.png",
@@ -478,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Window1.js",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\js\\Window1.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\Window1.js",
@@ -490,19 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Transac.js",
-              "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\js\\Transac.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\Transac.js",
-              "ToolTip": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\js\\Transac.js",
-              "RelativeToolTip": "wwwroot\\js\\Transac.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-11T21:16:05.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Login.html",
               "DocumentMoniker": "C:\\Users\\thesis\\Downloads\\Progress#1\\Progress#1\\Login.html",
               "ToolTip": "C:\\Users\\thesis\\Downloads\\Progress#1\\Progress#1\\Login.html",
@@ -512,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",

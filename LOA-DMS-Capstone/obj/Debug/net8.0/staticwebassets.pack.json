@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\LOA-DMS-Capstone.bundle.scp.css"
     },
     {
+      "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\Dashboard.css",
+      "PackagePath": "staticwebassets\\css\\Dashboard.css"
+    },
+    {
       "Id": "D:\\github\\DMS-LOA-CAPSTONE\\LOA-DMS-Capstone\\wwwroot\\css\\HRview.css",
       "PackagePath": "staticwebassets\\css\\HRview.css"
     },
