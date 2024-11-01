@@ -30,16 +30,16 @@
     text-align: center;
 }
 
-.left-section h1 {
-    font-size: 48px;
-    color: #FFB300;
-    margin-bottom: 20px;
-}
+    .left-section h1 {
+        font-size: 48px;
+        color: #FFB300;
+        margin-bottom: 20px;
+    }
 
-.left-section p {
-    font-size: 18px;
-    color: #2E6380;
-}
+    .left-section p {
+        font-size: 18px;
+        color: #2E6380;
+    }
 
 .right-section {
     text-align: center;
@@ -76,22 +76,22 @@
     margin-bottom: 20px;
 }
 
-.input-container label {
-    display: block;
-    font-weight: bold;
-    text-align: left;
-    font-size: 14px;
-    color: #555;
-    margin-bottom: 5px;
-}
+    .input-container label {
+        display: block;
+        font-weight: bold;
+        text-align: left;
+        font-size: 14px;
+        color: #555;
+        margin-bottom: 5px;
+    }
 
-.input-container input {
-    width: 100%;
-    padding: 10px;
-    font-size: 14px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-}
+    .input-container input {
+        width: 100%;
+        padding: 10px;
+        font-size: 14px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+    }
 
 .login-form button {
     font-size: 16px;
@@ -107,9 +107,9 @@
     font-family: 'Rubik One', sans-serif;
 }
 
-.login-form button:hover {
-    background-color: #e0a800;
-}
+    .login-form button:hover {
+        background-color: #e0a800;
+    }
 
 footer {
     text-align: center;
